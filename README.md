@@ -1,0 +1,2 @@
+# eradicate-selfbot
+yes
