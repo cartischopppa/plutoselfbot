@@ -5,3 +5,4 @@
 
 
 # Setup
+ * Go to the file named: `config.json` and enter your account (token)[]
