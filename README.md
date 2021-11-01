@@ -5,4 +5,4 @@
 
 
 # Setup
- * Go to the file named: `config.json` and enter your account (token)[]
+ * Go to the file named: `config.json` (under `data` folder) and enter your account token. (Video on how to get your token will be the first link in the **Links** section.)
